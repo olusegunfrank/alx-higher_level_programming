@@ -1,4 +1,3 @@
-guillaume@ubuntu:~/0x0B$ cat 11-main.py 
 #!/usr/bin/python3
 import os
 import sys
